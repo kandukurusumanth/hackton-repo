@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1 className='bg-red-900'>hi</h1>
+      <h2 className=' bg-green-900'>this is from the frontend</h2>
     </>
   )
 }
